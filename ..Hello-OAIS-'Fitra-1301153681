@@ -1,0 +1,7 @@
+PROGRAM HELLO;
+USER CRT;
+BEGIN   
+        CLRSCR;
+        WRITELN ("HELLO WORLD")
+        
+END.
