@@ -3,5 +3,9 @@ USER CRT;
 BEGIN   
         CLRSCR;
         WRITELN ("HELLO WORLD")
-        
+        WRITELN("1301153681")
+        WRITELN("Haqita Anjar Alam")
+	WRITELN("Fitra")
+        WRITELN("1301153623")
+	WRITELN("modul 6")
 END.
